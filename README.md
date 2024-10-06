@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/karthik-pohane" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="https://github.com/karthikpohane" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="github" height="30" width="30" /></a>
-  <a href="https://twitter.com/karthik_dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
+  <a href="https://x.com/kartiiikk_" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
 </p>
 
 ---
