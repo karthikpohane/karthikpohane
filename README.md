@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikpohane&label=Profile%20views&color=0e75b6&style=flat" alt="karthikpohane" /> </p>
 
-- 🔭 I’m currently working on [Forify](https://github.com/karthikpohane/Forify)
+- 🔭 I’m currently working on [Sellermate.ai](https://www.sellermate.ai/)
 
-- 🌱 I’m currently learning **Flask Framework.**
+- 🌱 I’m currently learning **Flask Framework & React with TS.**
 
 - 👯 I’m looking to collaborate on **Fullstack/ Frontend/ Backend related projects.**
 
