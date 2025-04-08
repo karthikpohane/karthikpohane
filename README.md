@@ -17,7 +17,7 @@
 
 ### 🚀 About Me:
 
-- 🔭 I’m currently working at **[Sellermate.ai](https://www.sellermate.ai/)** as a Software Engineering Intern
+- 🔭 I’m currently working at **[Sellermate.ai](https://www.sellermate.ai/)** as a Software Engineer. 
 - 🌱 I’m currently mastering **Flask Framework** and **React with TypeScript**
 - 👯 I’m open to collaborating on **Fullstack, Backend, and Frontend projects**
 - 💬 Ask me about **React, Node.js, APIs, Android Development, and Cloud Technologies**
