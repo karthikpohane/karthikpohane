@@ -17,12 +17,12 @@
 
 ### 🚀 About Me:
 
-- 🔭 I’m currently working at **[Sellermate.ai](https://www.sellermate.ai/)** as a Software Engineer. 
-- 🌱 I’m currently mastering **Flask Framework** and **React with TypeScript**
+- 🔭 I’m currently working at **[Sharpsell.ai](https://www.sharpsell.ai/)** as a Product Engineer. 
+- 🌱 I’m currently mastering **Python**
 - 👯 I’m open to collaborating on **Fullstack, Backend, and Frontend projects**
-- 💬 Ask me about **React, Node.js, APIs, Android Development, and Cloud Technologies**
+- 💬 Ask me about **Python, FastAPIs, React, Node.js, APIs, Android Development, and Cloud Technologies**
 - 📫 How to reach me: **kartikpohane0612@gmail.com**
-- 🎯 Goal for 2024: **Contribute to more Open-Source projects and build cloud-native solutions**
+- 🎯 Goal for 2026: **Contribute to more Open-Source projects and build cloud-native solutions**
 
 ---
 
